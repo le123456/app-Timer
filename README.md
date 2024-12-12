@@ -29,7 +29,7 @@ Instalação
 
 Para instalar o aplicativo, siga os passos abaixo:
 
-1.  Clone o repositório: `git clone https://github.com/seu-usuario/timer-app.git`
+1.  Clone o repositório: `git clone https://github.com/le123456/app-Timer.git`
 2.  Instale as dependências: `npm install` ou `yarn install`
 3.  Execute o aplicativo: `npm start` ou `yarn start`
 
@@ -59,21 +59,4 @@ Se você deseja contribuir para o projeto, por favor, siga os passos abaixo:
 Licença
 -------
 
-Este projeto é licenciado sob a licença MIT. Veja o arquivo LICENSE para mais informações.
-
-Contato
--------
-
-Se você tiver alguma dúvida ou precisar de ajuda, por favor, entre em contato comigo pelo e-mail [seu-e-mail](mailto:seu-e-mail).
-
-Screenshots
------------
-
-[Screenshot 1](https://github.com/seu-usuario/timer-app/blob/main/screenshots/screenshot1.png)
-
-[Screenshot 2](https://github.com/seu-usuario/timer-app/blob/main/screenshots/screenshot2.png)
-
-Changelog
----------
-
-[Versão 1.0.0](https://github.com/seu-usuario/timer-app/blob/main/CHANGELOG.md#100)
+Este projeto está disponível para uso livre. Você pode usá-lo, modificá-lo e distribuí-lo conforme necessário.
